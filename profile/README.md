@@ -18,6 +18,11 @@ The KU Blockchain Supply Chain Symposium was hosted at the Oread Hotel on Octobe
 
 ### Leadership
 
-- President:
-- Vice-President:
-- Education Chair:
+- President: Johnathon Lemons
+- Vice-President: Tony Czajka
+- Director of Marketing: Emma Nasseri
+- Director of Education: Morgan Bergen
+- Director of Communications: Max Easter
+- Director of Research and Development: Payden Brunton
+- Director of Market Analysis:  Adam Jolles
+- Director of Content Creation: TBD
