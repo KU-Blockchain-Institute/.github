@@ -21,7 +21,7 @@ The KU Blockchain Supply Chain Symposium was hosted at the Oread Hotel on Octobe
 ### Leadership
 
 - President: Johnathon Lemons
-- Vice-President: (@czajkatony)[https://github.com/czajkatony]
+- Vice-President: @[czajkatony](https://github.com/czajkatony)
 - Director of Marketing: @emmanasseri
 - Director of Education: @MorganBergen
 - Director of Communications: Max Easter
