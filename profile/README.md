@@ -6,11 +6,11 @@ The University of Kansas Blockchain Institute is a student-led technology initia
 
 ## Research
 
-The University of Kanas Blockchain Institute provides a platform for researchers, both faculty and student-led, to collaborate, publish work, mentor students, and educate curious minds. Contact our team at the Membership page if you would like to learn more about the resources and support our team can provide for blockchain related research projects.
+The University of Kanas Blockchain Institute provides a platform for researchers, both faculty and student-led, to collaborate with, mentor, and educate curious minds. Contact our team at the Membership page if you would like to learn more about the resources and support our team can provide for blockchain related research projects.
 
 ## Education
 
-Our education initiative is designed to prepare students for the industries of tomorrow. We strive to create one of the best blockchain talent pools in academia. We host meetups, conferences, speakers, and ad hoc educational sessions to illustrate the future of industry and academia.
+Our education initiative is designed to prepare students for the industries of tomorrow. We strive to create one of the best blockchain talent pools in academia. We host speakers and educational sessions to prepare students for the future of industry and academia.
 
 ## Development
 
@@ -27,4 +27,4 @@ The KU Blockchain Supply Chain Symposium was hosted at the Oread Hotel on Octobe
 - Director of Market Analysis:  @[adamjolles](https://github.com/adamjolles)
 - Director of Communications: Max Easter
 - Director of Research and Development: Payden Brunton
-- Director of Content Creation: TBD
+- Director of Content Creation: Keanen Inthavongsa
