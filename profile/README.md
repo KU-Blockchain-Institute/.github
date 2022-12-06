@@ -20,8 +20,8 @@ The KU Blockchain Supply Chain Symposium was hosted at the Oread Hotel on Octobe
 
 ### Leadership
 
-- President: @[emmanasseri](https://github.com/emmanasseri)
-- Vice-President of Engineering: Hudson Headley
+- President: Emma Nasseri @[emmanasseri](https://github.com/emmanasseri)
+- Vice-President of Engineering: Hudson Headley @[hudsonhrh](https://github.com/hudsonhrh)
 - Vice-President of Business: Johnathon Lemons
 
 - Director of Education:
