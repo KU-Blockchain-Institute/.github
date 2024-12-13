@@ -14,15 +14,4 @@ Our education initiative is designed to prepare students for the industries of t
 
 ## Development
 
-The University of Kansas Digital Finance Conference was held on April 5th, 2019. Speakers from Ripple labs, C2FO, Liquifi, and others, shared insight from the Financial Technology industry.
-
-The KU Blockchain Supply Chain Symposium was hosted at the Oread Hotel on October 26th, 2018. We hosted over 100 attendees including industry executives, working professionals, students and academics. 
-
-### Leadership
-
-- President: Emma Nasseri @[emmanasseri](https://github.com/emmanasseri)
-- Vice-President of Engineering: Hudson Headley @[hudsonhrh](https://github.com/hudsonhrh)
-- Vice-President of Business: Johnathon Lemons
-- Director of Education: Hannah Smith @[hrsmith1](https://github.com/hrsmith1)
-- Director of Research and Development: Payden Brunton @[Payden1224](https://github.com/Payden1224)
-- Director of Content Creation: Keanen Inthavongsa @[Kean3n](https://github.com/Kean3n)
+We are proud to provide extensive development opportunities through our GitHub organization page. All of our projects are open-source, including our DAO and current website. KUBI frequently brings together industry executives, working professionals, and students to have technical workshops.
